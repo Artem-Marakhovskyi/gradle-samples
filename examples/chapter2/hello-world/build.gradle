@@ -1,0 +1,6 @@
+task firstTask {
+    	  println 'I am first'
+}
+task secondTask {
+    	  println 'I am second'
+}
